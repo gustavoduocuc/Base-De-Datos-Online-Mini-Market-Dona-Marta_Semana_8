@@ -1,8 +1,8 @@
+PROYECTO - MiniMarket “Doña Marta”
+Asignatura: Modelamiento de Base De Datos – PRY2204
+Alumno: Gustavo Domínguez Castillo
 
-   PROYECTO - MiniMarket “Doña Marta”
-   Asignatura: Modelamiento de Base De Datos – PRY2204
-   Alumno: Gustavo Domínguez Castillo
-   Descripción:
+Descripción:
      Este script contiene la implementación completa de los casos 1 al 4
      solicitados en la actividad, organizados en bloques ejecutables:
        - Caso 1: Creación de tablas (DDL)
