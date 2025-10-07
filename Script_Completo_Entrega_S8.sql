@@ -1,6 +1,19 @@
------------------------------------------------------
--- PRY2204_S8 – MiniMarket Doña Marta
------------------------------------------------------
+/* 
+=========================================================================
+   PROYECTO FINAL – MiniMarket “Doña Marta”
+   Asignatura: Base de Datos – PRY2204
+   Alumno: Gustavo Domínguez Castillo
+   Fecha: Octubre 2025
+   Institución: DUOC UC
+   Descripción:
+     Este script contiene la implementación completa de los casos 1 al 4
+     solicitados en la actividad, organizados en bloques ejecutables:
+       - Caso 1: Creación de tablas (DDL)
+       - Caso 2: Restricciones y reglas de negocio
+       - Caso 3: Poblamiento de datos (DML)
+       - Caso 4: Consultas de recuperación de datos (SELECT)
+========================================================================= 
+*/
 
 
 -- Script de creación de tablas DLL (CASO 1)
